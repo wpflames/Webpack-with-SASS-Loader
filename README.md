@@ -2,6 +2,7 @@
 Webpack with SASS Loader
 
 Initialize package.json
+
 npm init -y
 
 Install the following packages:
